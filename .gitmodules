@@ -1,0 +1,6 @@
+[submodule "MULTICAMPUS"]
+	path = MULTICAMPUS
+	url = https://github.com/jhcha0822/BackendStudy
+[submodule "OnlineJudge"]
+	path = OnlineJudge
+	url = https://github.com/jhcha0822/Online-Judge
