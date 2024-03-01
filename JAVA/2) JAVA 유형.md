@@ -1,7 +1,7 @@
 # JAVA
 - JavaScript와 명칭은 비슷하나 아예 다른 언어이다.
 
-### JAVA Standard
+### JAVA Standard (SE)
 - PC 기반의 독립 실행형 프로그램 생성
 - 내 PC에 설치하여 인터넷 없이 실행할 수 있는 프로그램
 - 자바는 유료화가 되었기 때문에 함부로 받으면 안됨(라이센스)
@@ -9,7 +9,7 @@
 - Open JDK 무료 개발 툴 사용
 - 유료화된 JAVA와 호환되는 툴임
 
-### JAVA Enterprise
+### JAVA Enterprise (EE)
 - 기업용/대형 어플리케이션
 - 웹 개발 플랫폼
 
